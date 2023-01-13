@@ -1,2 +1,4 @@
 *.pcap
 *.pcapng
+*.parquet
+*.csv
