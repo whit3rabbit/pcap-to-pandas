@@ -2,3 +2,4 @@
 *.pcapng
 *.parquet
 *.csv
+*.vsd*
